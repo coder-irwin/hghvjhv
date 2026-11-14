@@ -1,0 +1,6 @@
+{
+  "name": "VoxCal — Voice AI Calendar Booking",
+  "description": "Real-time voice AI scheduling assistant powered by Gemini Live that parses client booking intents and syncs directly with Google Calendar.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
